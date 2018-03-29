@@ -1,0 +1,87 @@
+#header{
+    position: fixed;
+    background-color: firebrick;
+    width: 100%;
+}
+a{
+    color: yellow;
+    font-weight: bold;
+}
+
+h1{
+    font-family:Verdana;
+    color: orangered;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#solartext{
+    width: 550px;
+}
+#solarmap{
+    text-align: right;
+    margin: -600px 0px;
+}
+#menu{
+    background-color: darkgreen;
+     margin:700px 0px;
+  }
+#planets{
+    background-color: darkblue;
+    width: 100%;
+}
+#mercurytxt{
+    width: 650px;
+}
+#mercurypict{
+    text-align: right;
+    margin:-400px 0px;
+}
+#mercuryvid{ 
+    margin: 400px 0px;
+}
+#mercurytext{
+    margin: -680px 550px;
+    width: 600px;
+    text-align: right;
+
+}
+#mercuryhome{
+    margin: 800px 0px;
+
+}
+#venustext{
+    width: 750px;
+    }
+#venuspict{
+    margin: -400px 0px;
+    text-align: right;
+}
+#venusvid{
+    margin: 450px 0px;
+}
+#venustxt{
+    margin: -700px 600px;
+    width: 600px;
+    text-align: right;
+}
+#venushome{
+    margin: 900px 0px;
+}
+#galery{
+    background-color: green;
+}
+#newpict{
+    margin:-565px 0px;
+    text-align: right;
+    padding:0px 300px;
+}
+#images{
+    background-color: black;
+}
+#form{
+    width: 500px;
+    height: 500px;
+    background-image: url("images/back.jpg"); 
+    color: white;
+}
